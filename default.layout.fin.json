@@ -19,7 +19,7 @@
 											"type": "component",
 											"componentName": "view",
 											"componentState": {
-												"url": "http://localhost:3000/app",
+												"url": "https://ngunday.github.io/ncweb/app",
 												"name": "internal-generated-view-e7fe7df3-6f64-4235-899f-4e91af2cb32d",
 												"web": {
 													"frameName": "sample-application"
