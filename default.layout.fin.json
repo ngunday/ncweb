@@ -11,9 +11,8 @@
 							"width": 50,
 							"content": [
 								{
-									"type": "stack",
+									"type": "row",
 									"width": 50,
-									"height": 50,
 									"content": [
 										{
 											"type": "component",
@@ -25,7 +24,7 @@
 													"frameName": "sample-application"
 												}
 											},
-											"title": "View Content App"
+											"title": "Notification Demo App 1"
 										}
 									]
 								}
